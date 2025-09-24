@@ -1,0 +1,2 @@
+{"_id":{"$oid":"68d3dffc072f9e66cfd85db1"},"userId":"mahii","symbol":"AAPL","type":"BUY","quantity":10,"date":{"$date":"2025-09-24T10:00:00Z"}}
+{"_id":{"$oid":"68d3dffc072f9e66cfd85db2"},"userId":"mahii","symbol":"TSLA","type":"BUY","quantity":5,"date":{"$date":"2025-09-23T12:30:00Z"}}

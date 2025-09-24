@@ -1,0 +1,2 @@
+{"_id":{"$oid":"68d3dfe7072f9e66cfd85daf"},"userId":"mahii","symbol":"AAPL","shares":10,"value":1500}
+{"_id":{"$oid":"68d3dff1072f9e66cfd85db0"},"userId":"mahii","symbol":"TSLA","shares":5,"value":2500}
